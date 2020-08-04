@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Reindeer-Landing-Page/static/css/main.442aa717.chunk.css",
+    "main.js": "/Reindeer-Landing-Page/static/js/main.73eb6589.chunk.js",
+    "main.js.map": "/Reindeer-Landing-Page/static/js/main.73eb6589.chunk.js.map",
+    "runtime-main.js": "/Reindeer-Landing-Page/static/js/runtime-main.5bd43e1f.js",
+    "runtime-main.js.map": "/Reindeer-Landing-Page/static/js/runtime-main.5bd43e1f.js.map",
+    "static/js/2.37cc2f7f.chunk.js": "/Reindeer-Landing-Page/static/js/2.37cc2f7f.chunk.js",
+    "static/js/2.37cc2f7f.chunk.js.map": "/Reindeer-Landing-Page/static/js/2.37cc2f7f.chunk.js.map",
+    "index.html": "/Reindeer-Landing-Page/index.html",
+    "precache-manifest.e9e93b97b5c467f3b6f3cdf2e2ea2283.js": "/Reindeer-Landing-Page/precache-manifest.e9e93b97b5c467f3b6f3cdf2e2ea2283.js",
+    "service-worker.js": "/Reindeer-Landing-Page/service-worker.js",
+    "static/css/main.442aa717.chunk.css.map": "/Reindeer-Landing-Page/static/css/main.442aa717.chunk.css.map",
+    "static/js/2.37cc2f7f.chunk.js.LICENSE.txt": "/Reindeer-Landing-Page/static/js/2.37cc2f7f.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/Reindeer-Landing-Page/static/media/reindeer.c159bf6d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5bd43e1f.js",
+    "static/js/2.37cc2f7f.chunk.js",
+    "static/css/main.442aa717.chunk.css",
+    "static/js/main.73eb6589.chunk.js"
+  ]
+}
