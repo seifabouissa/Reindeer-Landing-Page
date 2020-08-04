@@ -1,0 +1,36 @@
+.watchNow{
+    position: absolute;
+    top: 60%;
+    right: 0;
+    transform: translateY(-50%);
+    background: #FFEB00;
+    padding: 30px 180px 30px 30px;
+    a{
+        text-decoration: none;
+        color: #000;
+        font-size: 20px;
+        font-weight: 600;
+        text-transform: uppercase;
+        border-bottom: 3px solid #000;
+        padding-bottom: 5px;
+    }
+}
+.media{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    padding: 20px;
+    ul{
+        li{
+            display: inline-block;
+            padding: 20px;
+            font-size: 20px;
+            color: #494949;
+            cursor: pointer;
+            border-radius: 50%;
+            &:hover{
+                background: #FFEB00;
+            }
+        }
+    }
+}
